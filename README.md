@@ -73,6 +73,6 @@ This project simulates a biologically-inspired spiking neural network using the 
 - Incorporate recording and analysis tools
 
 ## Author
-[Your Name]  
-[Your Contact Information]  
-[Date]
+Pedro Trajano Ferreira  
+pedro.trajano.ferreira@gmail.com  
+09/04/25
